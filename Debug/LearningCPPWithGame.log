@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  LearningCPPWithGame.cpp
+C:\Users\jieun\source\repos\LearningCPPWithGame\LearningCPPWithGameDlg.h(6): warning C4129: 'e': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  LearningCPPWithGameDlg.cpp
+C:\Users\jieun\source\repos\LearningCPPWithGame\LearningCPPWithGameDlg.h(6): warning C4129: 'e': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  코드를 생성하고 있습니다...
+LearningCPPWithGame.obj : fatal error LNK1276: 잘못된 지시문 'entry:WinMainCRTratup'을(를) 찾았습니다. '/'로 시작하지 않았습니다.
